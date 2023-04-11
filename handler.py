@@ -1,6 +1,7 @@
 import os
 import joblib
 import pandas as pd
+import pipeline
 from flask import Flask, request, Response
 from health_insurance.HealthInsurance import HealthInsurance
 
