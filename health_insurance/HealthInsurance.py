@@ -6,8 +6,7 @@ import numpy as np
 class HealthInsurance(object):
     
     def __init__ (self):
-        
-        
+        pass   
         
         
     def get_prediction( self, model, original_data, test_data):
